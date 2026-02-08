@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Felix Shawn<br><br>
+👋 Hi, I’m Felix <br><br>
 💻 Full-Stack Developer | 🚀 Problem Solver | 🌍 Always Learning<br><br>
 I build scalable, high-performance web applications with a strong focus on clean architecture, efficiency, and long-term maintainability. I enjoy turning complex requirements into simple, reliable solutions and continuously improving my craft.<br><br>
 🤝 Always open to collaboration and impactful projects.
